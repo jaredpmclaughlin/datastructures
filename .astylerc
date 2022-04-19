@@ -1,0 +1,13 @@
+--style=kr
+-s4 # 4 space indents
+--indent-classes
+--indent-switches
+--indent-cases
+--break-blocks
+--pad-oper
+--delete-empty-lines
+--align-pointer=type
+--align-reference=type
+--remove-braces
+--keep-one-line-blocks
+--max-code-length=70
